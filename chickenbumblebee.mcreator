@@ -1,0 +1,85 @@
+{
+  "mod_elements": [
+    {
+      "name": "Bumblebee",
+      "type": "musicdisc",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bumblebee",
+      "metadata": {
+        "files": [
+          "src/main/java/niceeli/chickenbumblebee/item/BumblebeeItem.java",
+          "src/main/resources/assets/chickenbumblebee/models/item/bumblebee.json"
+        ]
+      }
+    },
+    {
+      "name": "Bee",
+      "type": "achievement",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bee",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/chickenbumblebee/advancements/bee.json"
+        ]
+      }
+    },
+    {
+      "name": "Bebe",
+      "type": "villagertrade",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bebe",
+      "metadata": {
+        "files": []
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "bee",
+      "files": [
+        "bee"
+      ],
+      "category": "record",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "subtitles.bee": "",
+      "item.chickenbumblebee.bumblebee": "Music Disc",
+      "item.chickenbumblebee.bumblebee.desc": "Ethobot - Bumblebee",
+      "advancements.bee.title": "Its Finger Licking Good",
+      "advancements.bee.descr": "Trade to get the Bumblebee music disc"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "chickenbumblebee",
+    "modName": "CHICKENBUMBLEBEE",
+    "version": "1.0.0",
+    "author": "niceEli",
+    "websiteURL": "niceeli.github.io",
+    "license": "MIT License",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.4",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "niceeli.chickenbumblebee",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300224119
+}

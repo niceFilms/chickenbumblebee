@@ -1,0 +1,19 @@
+{
+  "_fv": 43,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Music Disc",
+    "texture": "bb",
+    "description": "Ethobot - Bumblebee",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "specialInfo": [],
+    "hasGlow": true,
+    "music": {
+      "value": "CUSTOM:bee"
+    },
+    "lengthInTicks": 1000,
+    "analogOutput": 0
+  }
+}

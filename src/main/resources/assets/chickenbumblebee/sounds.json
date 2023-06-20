@@ -1,0 +1,10 @@
+{
+  "bee": {
+    "sounds": [
+      {
+        "name": "chickenbumblebee:bee",
+        "stream": true
+      }
+    ]
+  }
+}
